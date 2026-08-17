@@ -1,2 +1,10 @@
-# emotion-detector
-AI-based emotion detection application using IBM Watson NLP and Flask.
+# Emotion Detection
+
+This is a Flask web application that performs emotion detection on text using the IBM Watson NLP API.
+
+The emotions detected are:
+- Anger
+- Disgust
+- Fear
+- Joy
+- Sadness
